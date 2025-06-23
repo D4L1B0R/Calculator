@@ -2,7 +2,7 @@
 
 **Course:** Introduction to Programming  
 **Language:** Python  
-**Semester:** 1st  
+**Semester:** 2st  
 **Academic Year:** 2023/2024  
 **Project Type:** Console-based calculator
 
