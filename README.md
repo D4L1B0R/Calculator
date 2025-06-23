@@ -22,7 +22,6 @@ This is a simple command-line calculator built in Python, designed as a first-se
 - Division `/` (with zero-check)
 - Exponentiation `**`
 - Integer division `//`
-- Modulo `%`
 
 ---
 
